@@ -1,0 +1,6 @@
+{
+  "name": "FlightRecorder AI",
+  "description": "Black-box flight recorder for AI agents with tamper-evident SHA-256 hash chaining, root cause analysis, human-in-the-loop confirmation, and interactive investigation dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
